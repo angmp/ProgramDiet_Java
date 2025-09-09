@@ -1,0 +1,63 @@
+Nama : Bella
+Umur : 17
+Jenis Kelamin : Wanita
+Tinngi Badan : 160.0
+BeratBadan : 80.0
+Tingkat Aktivitas : 1
+Target Berat Badan : 50.0
+BMI : 31.249999999999993
+Kategori BMI : Obesitas tingkat 1
+Jumlah kalori yang dibutuhkan Per hari : 1963.9776000000002kcal
+Jumlah kalori yang dibutuhkan sesuai target berat badan : 1463.9776000000002Kebutuhan asupan air harian : 2400.0
+Nama : Bella
+Umur : 17
+Jenis Kelamin : Wanita
+Tinngi Badan : 160.0
+BeratBadan : 80.0
+Tingkat Aktivitas : 1
+Target Berat Badan : 49.0
+BMI : 31.249999999999993
+Kategori BMI : Obesitas tingkat 1
+Jumlah kalori yang dibutuhkan Per hari : 1963.9776000000002kcal
+Jumlah kalori yang dibutuhkan sesuai target berat badan : 1463.9776000000002
+Kebutuhan asupan air harian : 2400.0
+                                                              
+Nama : Bella
+Umur : 17
+Jenis Kelamin : wanita
+Tinngi Badan : 160.0
+BeratBadan : 80.0
+Tingkat Aktivitas : 1
+Target Berat Badan : 50.0
+BMI : 31.249999999999993
+Kategori BMI : Obesitas tingkat 1
+Jumlah kalori yang dibutuhkan Per hari : 1963.9776000000002kcal
+Jumlah kalori yang dibutuhkan sesuai target berat badan : 1463.9776000000002
+Kebutuhan asupan air harian : 2400.0
+                                                              
+Nama : Bella
+Umur : 17
+Jenis Kelamin : Wanita
+Tinngi Badan : 160.0
+BeratBadan : 80.0
+Tingkat Aktivitas : 1
+Target Berat Badan : 50.0
+BMI : 31.249999999999993
+Kategori BMI : Obesitas tingkat 1
+Jumlah kalori yang dibutuhkan Per hari : 1963.9776000000002kcal
+Jumlah kalori yang dibutuhkan sesuai target berat badan : 1463.9776000000002
+Kebutuhan asupan air harian : 2400.0
+                                                              
+Nama : hsu
+Umur : 21
+Jenis Kelamin : pria
+Tinngi Badan : 180.0
+BeratBadan : 80.0
+Tingkat Aktivitas : 2
+Target Berat Badan : 150.0
+BMI : 24.691358024691358
+Kategori BMI : Normal
+Jumlah kalori yang dibutuhkan Per hari : 2646.6055kcal
+Jumlah kalori yang dibutuhkan sesuai target berat badan : 2146.6055
+Kebutuhan asupan air harian : 2400.0
+                                                              

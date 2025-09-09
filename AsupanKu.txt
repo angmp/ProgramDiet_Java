@@ -1,0 +1,261 @@
+Tanggal: 2023-12-11
+Makanan ke-1: naasi
+Asupan Kalori: 11.22 kcal
+Asupan Karbohidrat: 34.0 gram
+Asupan Protein: 0.884 gram
+Asupan Lemak: 0.68 gram
+
+Makanan ke-2: ere
+Asupan Kalori: 39401.92 kcal
+Asupan Karbohidrat: 32.0 gram
+Asupan Protein: 0.8320000000000001 gram
+Asupan Lemak: 0.64 gram
+
+Total Asupan:
+Total Kalori: 39413.14 kcal
+Total Karbohidrat: 66.0 gram
+Total Protein: 1.7160000000000002 gram
+Total Lemak: 1.32 gram
+
+Tanggal: 2023-12-12
+Makanan ke-1: nasi
+Asupan Kalori: 7.82 kcal
+Asupan Karbohidrat: 23.0 gram
+Asupan Protein: 0.5980000000000001 gram
+Asupan Lemak: 0.46 gram
+
+Makanan ke-2: ayam
+Asupan Kalori: 15.3 kcal
+Asupan Karbohidrat: 34.0 gram
+Asupan Protein: 0.884 gram
+Asupan Lemak: 0.68 gram
+
+Total Asupan:
+Total Kalori: 23.12 kcal
+Total Karbohidrat: 57.0 gram
+Total Protein: 1.4820000000000002 gram
+Total Lemak: 1.1400000000000001 gram
+
+Tanggal: 2023-23-23
+Makanan ke-1: nasi
+Asupan Kalori: 0.46 kcal
+Asupan Karbohidrat: 2.0 gram
+Asupan Protein: 0.052000000000000005 gram
+Asupan Lemak: 0.04 gram
+
+Makanan ke-2: ayam
+Asupan Kalori: 5.29 kcal
+Asupan Karbohidrat: 23.0 gram
+Asupan Protein: 0.5980000000000001 gram
+Asupan Lemak: 0.46 gram
+
+Total Asupan:
+Total Kalori: 5.75 kcal
+Total Karbohidrat: 25.0 gram
+Total Protein: 0.6500000000000001 gram
+Total Lemak: 0.5 gram
+
+Tanggal: 2023-12-12
+Makanan ke-1: nasi
+Asupan Kalori: 60.0 kcal
+Asupan Karbohidrat: 20.0 gram
+Asupan Protein: 0.52 gram
+Asupan Lemak: 0.4 gram
+
+Makanan ke-2: rere
+Asupan Kalori: 68.0 kcal
+Asupan Karbohidrat: 34.0 gram
+Asupan Protein: 0.884 gram
+Asupan Lemak: 0.68 gram
+
+Total Asupan:
+Total Kalori: 128.0 kcal
+Total Karbohidrat: 54.0 gram
+Total Protein: 1.404 gram
+Total Lemak: 1.08 gram
+
+Tanggal: 2023-01-01
+Tanggal: 2023-01-01
+Makanan ke-1: nasi
+Asupan Kalori: 75.48 kcal
+Asupan Karbohidrat: 34.0 gram
+Asupan Protein: 0.884 gram
+Asupan Lemak: 0.68 gram
+
+Makanan ke-2: ayamm
+Asupan Kalori: 79.56 kcal
+Asupan Karbohidrat: 34.0 gram
+Asupan Protein: 0.884 gram
+Asupan Lemak: 0.68 gram
+
+Total Asupan:
+Total Kalori: 155.04000000000002 kcal
+Total Karbohidrat: 68.0 gram
+Total Protein: 1.768 gram
+Total Lemak: 1.36 gram
+
+Tanggal: 2023-02-02
+Makanan ke-1: nasi
+Asupan Kalori: 97.05999999999999 kcal
+Asupan Karbohidrat: 23.0 gram
+Asupan Protein: 0.5980000000000001 gram
+Asupan Lemak: 0.46 gram
+
+Makanan ke-2: ayam
+Asupan Kalori: 39.839999999999996 kcal
+Asupan Karbohidrat: 12.0 gram
+Asupan Protein: 0.31200000000000006 gram
+Asupan Lemak: 0.24 gram
+
+Total Asupan:
+Total Kalori: 136.89999999999998 kcal
+Total Karbohidrat: 35.0 gram
+Total Protein: 0.9100000000000001 gram
+Total Lemak: 0.7 gram
+
+Tanggal : 2023-02-02
+Makanan ke-1 : nasi
+Asupan Kalori : 46.00 kcal
+Asupan Karbohidrat : 23.00 gram
+Asupan Protein : 0.60 gram
+Asupan Lemak : 0.46 gram
+
+Makanan ke-2 : haha
+Asupan Kalori : 225.00 kcal
+Asupan Karbohidrat : 45.00 gram
+Asupan Protein : 1.17 gram
+Asupan Lemak : 0.90 gram
+
+Total Asupan:
+Total Kalori: 271.0 kcal
+Total Karbohidrat: 68.0 gram
+Total Protein: 1.768 gram
+Total Lemak: 1.36 gram
+
+Tanggal : 2022-03-12
+Makanan ke-1 : nasi
+Asupan Kalori : 109.48 kcal
+Asupan Karbohidrat : 34.00 gram
+Asupan Protein : 0.88 gram
+Asupan Lemak : 0.68 gram
+
+Makanan ke-2 : ayam
+Asupan Kalori : 285.36 kcal
+Asupan Karbohidrat : 232.00 gram
+Asupan Protein : 6.03 gram
+Asupan Lemak : 4.64 gram
+
+Total Asupan:
+Total Kalori: 394.84000000000003 kcal
+Total Karbohidrat: 266.0 gram
+Total Protein: 6.916 gram
+Total Lemak: 5.319999999999999 gram
+
+Tanggal : 2023-03-12
+Makanan ke-1 : crepes
+Asupan Kalori : 76.59 kcal
+Asupan Karbohidrat : 23.00 gram
+Asupan Protein : 0.60 gram
+Asupan Lemak : 0.46 gram
+
+Tanggal : 2023-12-23
+Makanan ke-1 : nasi
+Asupan Kalori : 28.06 kcal
+Asupan Karbohidrat : 23.00 gram
+Asupan Protein : 0.60 gram
+Asupan Lemak : 0.46 gram
+
+Makanan ke-2 : ayam
+Asupan Kalori : 79.56 kcal
+Asupan Karbohidrat : 34.00 gram
+Asupan Protein : 0.88 gram
+Asupan Lemak : 0.68 gram
+
+Total Asupan:
+Total Kalori: 107.62 kcal
+Total Karbohidrat: 57.0 gram
+Total Protein: 1.4820000000000002 gram
+Total Lemak: 1.1400000000000001 gram
+
+Tanggal : 2023-12-23
+Makanan ke-1 : ayam
+Asupan Kalori : 259.74 kcal
+Asupan Karbohidrat : 234.00 gram
+Asupan Protein : 6.08 gram
+Asupan Lemak : 4.68 gram
+
+Makanan ke-2 : hwha
+Asupan Kalori : 79.56 kcal
+Asupan Karbohidrat : 34.00 gram
+Asupan Protein : 0.88 gram
+Asupan Lemak : 0.68 gram
+
+Total Asupan:
+Total Kalori: 339.3 kcal
+Total Karbohidrat: 268.0 gram
+Total Protein: 6.968 gram
+Total Lemak: 5.359999999999999 gram
+
+Tanggal: 2023-12-10
+Makanan ke-1: crepes
+Asupan Kalori: 224.00000000000003 kcal
+Asupan Karbohidrat: 100.0 gram
+Asupan Protein: 2.6 gram
+Asupan Lemak: 2.0 gram
+
+Makanan ke-2: tempe
+Asupan Kalori: 196.0 kcal
+Asupan Karbohidrat: 100.0 gram
+Asupan Protein: 2.6 gram
+Asupan Lemak: 2.0 gram
+Total Asupan:
+Total Kalori : 420.0 kcal
+Total Karbohidrat : 200.0 gram
+Total Protein : 5.2 gram
+Total Lemak : 4.0 gram
+=================================================
+
+Tanggal: 2023-12-10
+
+Makanan ke-1 : crepes
+Asupan Kalori : 224.00000000000003 kcal
+Asupan Karbohidrat : 100.0 gram
+Asupan Protein : 2.6 gram
+Asupan Lemak : 2.0 gram
+
+
+Makanan ke-2 : tempe
+Asupan Kalori : 196.0 kcal
+Asupan Karbohidrat : 100.0 gram
+Asupan Protein : 2.6 gram
+Asupan Lemak : 2.0 gram
+
+Total Asupan :
+Total Kalori : 420.0 kcal
+Total Karbohidrat : 200.0 gram
+Total Protein : 5.2 gram
+Total Lemak : 4.0 gram
+=================================================
+
+Tanggal: 2023-12-10
+
+Makanan ke-1 : Crepes
+Asupan Kalori : 224.00000000000003 kcal
+Asupan Karbohidrat : 19.997600000000006 gram
+Asupan Protein : 11.200000000000003 gram
+Asupan Lemak : 3.733333333333334 gram
+
+
+Makanan ke-2 : Tempe
+Asupan Kalori : 196.0 kcal
+Asupan Karbohidrat : 17.4979 gram
+Asupan Protein : 9.8 gram
+Asupan Lemak : 3.2666666666666666 gram
+
+Total Asupan :
+Total Kalori : 420.0 kcal
+Total Karbohidrat : 37.49550000000001 gram
+Total Protein : 21.000000000000004 gram
+Total Lemak : 7.0 gram
+=================================================
+
